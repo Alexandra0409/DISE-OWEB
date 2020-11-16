@@ -7,8 +7,7 @@
   h3{
    text-align:center}
   </style>
-<h1 class="has-text-align-center"<P ALIGN=center>DISEÑO<strong>  WEB</strong> </h1>
-<body background="images.jpg">
+<h1 class=>"has-text-align-center"<P ALIGN=center>DISEÑO<strong>  WEB</strong> </h1>
 
 <H2 ALIGN="CENTER"> <font color="slateblue"> <big> <I><b> </b></I></big> CONSEPTOS BASICOS DE HERRAMIENTAS DE MULTIMEDIA. </font> </H2>
 <font face="Comic Sans MS" size="3" color="black">
