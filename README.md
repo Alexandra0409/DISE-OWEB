@@ -1,5 +1,4 @@
-# DISE-OWEB 
-<!DOCTYPE.html>
+# DISEÑO WEB
 <html>
 <HEAD>
  <title>DISEÑO WEB</title>
